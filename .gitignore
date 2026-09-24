@@ -1,0 +1,8 @@
+# 이 폴더에는 index.html, fonts/, robots.txt, .nojekyll, .gitignore(이 파일) 만 올라갑니다.
+*
+!.gitignore
+!index.html
+!robots.txt
+!.nojekyll
+!fonts/
+!fonts/**
